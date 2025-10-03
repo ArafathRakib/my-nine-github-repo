@@ -1,0 +1,19 @@
+img{
+    width: 300px;
+    border: 5px solid green;
+}
+p{
+    background-color: aquamarine;
+    color: hotpink;
+    border: 5px red;
+
+}
+    <style>
+        .nine {
+            border: 5px solid red;
+        }
+        .tine{
+           background-color: brown; 
+           margin: 5px solid red;
+        }
+    </style> 
